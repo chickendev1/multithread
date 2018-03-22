@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrency_main.iml" group="concurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrency_test.iml" group="concurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithread.iml" filepath="$PROJECT_DIR$/.idea/modules/multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithread_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multithread_main.iml" group="multithread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multithread_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multithread_test.iml" group="multithread" />
+    </modules>
+  </component>
+</project>

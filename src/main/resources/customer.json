@@ -1,0 +1,50 @@
+[
+  {
+    "Customer_id": "C101",
+    "firstName": "David",
+    "lastName": "Ronald",
+    "age": 24,
+    "address":
+    {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber":
+    [
+      {
+        "type": "home",
+        "number": "212 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "Customer_id": "C102",
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "address":
+    {
+      "streetAddress": "18 2nd Street",
+      "city": "Oakland",
+      "state": "CA",
+      "postalCode": "10324"
+    },
+    "phoneNumber":
+    [
+      {
+        "type": "home",
+        "number": "123 666-1234"
+      },
+      {
+        "type": "fax",
+        "number": "678 321-4321"
+      }
+    ]
+  }
+]
